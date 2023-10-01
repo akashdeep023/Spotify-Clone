@@ -11,4 +11,4 @@
    Email: ad3500476@gmail.com
 
 ## Link :
-   url : https://github.com/akashdeep023/Spotify-Clone.git
+   url : https://akashdeep023.github.io/Spotify-Clone/
